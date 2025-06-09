@@ -1,0 +1,1 @@
+const collegeName = "Coding With Waqar";
